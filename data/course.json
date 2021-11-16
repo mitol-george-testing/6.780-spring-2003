@@ -1,0 +1,50 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Process Control Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "74793b53-bd2f-8b6f-4707-79ad624164bf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Semiconductor Manufacturing",
+  "course_description": "6.780 covers statistical modeling and the control of semiconductor fabrication processes and plants. Topics covered include: design of experiments, response surface modeling, and process optimization; defect and parametric yield modeling; process/device/circuit yield optimization; monitoring, diagnosis, and feedback control of equipment and processes; and analysis and scheduling of semiconductor manufacturing operations.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.780",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes",
+    "Projects",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
